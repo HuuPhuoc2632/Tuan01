@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author HuuPhuoc
+ *
+ */
+module ActiveMQDemo {
+}
